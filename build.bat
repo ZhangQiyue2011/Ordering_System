@@ -1,0 +1,1 @@
+g++ -o main.exe main.cpp imgui.cpp imgui_draw.cpp imgui_tables.cpp imgui_demo.cpp imgui_widgets.cpp imgui_impl_opengl3.cpp imgui_impl_glfw.cpp glad.c -fexec-charset=utf-8 -finput-charset=utf-8 -lopengl32 -lglfw3 -lgdi32
