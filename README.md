@@ -16,4 +16,4 @@ shiweiyongtuiheixiti.ttf下载自https://zf.sc.chinaz.com/Files/DownLoad/upload/
   
 ## 本项目许可协议  
   
-本项目本身遵循[BSD许可协议](https://opensource.org/licenses/BSD-3-Clause)（请注意，BSD协议有多个变体，如BSD-2-Clause和BSD-3-Clause，这里假设是其中一种）。尽管本项目和某些第三方库（如ImGui和STB）遵循MIT许可协议，但选择BSD协议是为了满足项目特定的需求或偏好。用户在使用本项目时，请确保遵守BSD许可协议的条款，并同时尊重所有第三方库的许可要求。  
+本项目本身遵循[BSD许可协议](https://opensource.org/licenses/BSD-3-Clause)。尽管本项目和某些第三方库（如ImGui和STB）遵循MIT许可协议，但选择BSD协议是为了满足项目特定的需求或偏好。用户在使用本项目时，请确保遵守BSD许可协议的条款，并同时尊重所有第三方库的许可要求。  
