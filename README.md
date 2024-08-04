@@ -12,7 +12,7 @@ shiweiyongtuiheixiti.ttf下载自https://zf.sc.chinaz.com/Files/DownLoad/upload/
   
 - **Glad**：OpenGL加载器生成器。
   
-- **STB**（单文件公共域/MIT许可的库）：STB库提供了一系列小巧且高效的工具函数，这些函数通常遵循公共域或MIT许可协议。请注意，不同的STB库可能有不同的许可条款，但在此上下文中，我们假设您使用的是遵循MIT协议的STB库版本。  
+- **STB**（单文件公共域/MIT许可的库）：STB库提供了一系列小巧且高效的工具函数，这些函数通常遵循公共域或MIT许可协议。
   
 ## 本项目许可协议  
   
