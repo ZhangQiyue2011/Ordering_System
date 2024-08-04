@@ -10,7 +10,7 @@ shiweiyongtuiheixiti.ttf下载自https://zf.sc.chinaz.com/Files/DownLoad/upload/
   
 - **ImGui**：用于创建图形用户界面的库。ImGui遵循[MIT许可协议](https://opensource.org/licenses/MIT)。  
   
-- **Glad**：OpenGL加载器生成器。虽然Glad本身可能不直接附带一个显式的许可文件，但通常它被认为是遵循与GLFW类似的宽松许可协议，具体取决于其生成的加载器代码所依赖的OpenGL规范或扩展的许可情况。然而，为了准确起见，建议查阅Glad的官方文档或源代码仓库以获取最新的许可信息。  
+- **Glad**：OpenGL加载器生成器。
   
 - **STB**（单文件公共域/MIT许可的库）：STB库提供了一系列小巧且高效的工具函数，这些函数通常遵循公共域或MIT许可协议。请注意，不同的STB库可能有不同的许可条款，但在此上下文中，我们假设您使用的是遵循MIT协议的STB库版本。  
   
